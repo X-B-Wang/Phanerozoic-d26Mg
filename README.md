@@ -6,4 +6,4 @@ With any trouble when dealing with this model, do not hesitate to contact me at 
 
 -- by Xubin Wang, School of Earth and Space Sciences, Peking University  
 -- Cooperators: Lin Dong, Ruimin Wang, Bing Shen (SESS, Peking University)  
--- Coorespondence: my supervisor Dr. L. Dong
+-- Coorespondence: my supervisor Dr. L. Dong, E-mail: lin.dong \at pku.edu.cn
